@@ -1,0 +1,14 @@
+.cart-image, 
+.slider img
+{
+  height: 360px;
+  object-fit: contain;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.carousel li.slide img {
+  height: 200px;
+}
